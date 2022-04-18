@@ -1,0 +1,134 @@
+body{
+  text-align:center;
+  margin: 0;
+  background-color: #E9D5DA;
+
+}
+
+.name{
+  margin: 0;
+  padding-top: 50px;
+
+  position: relative;
+}
+.pro-img{
+  border-radius: 100%;
+}
+
+
+h1{
+  color: #363062;
+  font-size: 150px;
+font-family: 'Sacramento', cursive;
+margin: 200 auto 0 auto;
+}
+h2{
+  font-family: 'Square Peg', cursive;
+  color: #4D4C7D;
+}
+h3{
+  line-height: 1;
+  color:#4D4C7D ;
+  font-family: 'Ms Madi', cursive;
+}
+p{
+  color: #151D3B;
+  font-family: 'Ms Madi', cursive;
+}
+
+
+.sub{
+  color: #4D4C7D;
+
+  font-family: 'Square Peg', cursive;
+  font-size: 30px;
+  margin: 0 auto auto auto;
+}
+
+.skill-row{
+margin: auto;
+width: 220px;
+text-align: left;
+}
+
+
+.ps{
+  position: relative;
+float: inherit;
+border-radius: 100%;
+
+
+  height: 200px;
+  width: 200px;
+}
+.af{
+  image-resolution: from-image;
+  position: relative;
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 100%;
+
+}
+hr{
+  border-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  border-top: 2px;
+  width: 10%;
+
+}
+div{
+  line-height: 50px;
+}
+
+
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container{
+  padding: 30px;
+  background-color: #827397;
+}
+.btn {
+  background: #224e6b;
+  background-image: -webkit-linear-gradient(top, #224e6b, #5e8dab);
+  background-image: -moz-linear-gradient(top, #224e6b, #5e8dab);
+  background-image: -ms-linear-gradient(top, #224e6b, #5e8dab);
+  background-image: -o-linear-gradient(top, #224e6b, #5e8dab);
+  background-image: linear-gradient(to bottom, #224e6b, #5e8dab);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #346482;
+  background-image: -webkit-linear-gradient(top, #346482, #374d5c);
+  background-image: -moz-linear-gradient(top, #346482, #374d5c);
+  background-image: -ms-linear-gradient(top, #346482, #374d5c);
+  background-image: -o-linear-gradient(top, #346482, #374d5c);
+  background-image: linear-gradient(to bottom, #346482, #374d5c);
+  text-decoration: none;
+}
+
+
+a{
+  font-family: 'Square Peg', cursive;
+  color: #143F6B;
+  margin: auto 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: #363062;
+}
+
+.contact-me{
+  padding-top: 50px;
+}
